@@ -1,0 +1,5 @@
+numpy
+tqdm
+easydict
+torch==1.13.0+cu102 torchvision==0.14.0+cu102 -f https://download.pytorch.org/whl/torch_stable.html
+git+https://github.com/tylin/coco-caption.git
